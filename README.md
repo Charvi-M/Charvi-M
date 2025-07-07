@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charvi Mishra</h1>
 <h3 align="center">I am a tech enthusiast, interested in AI/ML and Android Development.</h3>
 
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<div style="display: flex; justify-content: right; align-items: right"><dotlottie-player src="https://lottie.host/7a131bc7-05e3-417d-bba7-2c7645e82ff8/0lF9c4CuSt.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player></div>
+<img align="right" alt="Robot" width='400' src="https://raw.githubusercontent.com/AmrendraOG/gifs/refs/heads/main/3ab998f0-affc-49b5-be01-41cae6b055c4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charvi-M&label=Profile%20views&color=blueviolet&style=flat" alt="Charvi Mishra" /> </p>
 
@@ -34,4 +33,4 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charvi-mishra&layout=compact&theme=default)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charvi-M&layout=compact&theme=default)
