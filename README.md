@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charvi Mishra</h1>
 <h3 align="center">I am a tech enthusiast, interested in AI/ML and Android Development.</h3>
 
-<img align="right" alt="Robot" width='400' src="https://raw.githubusercontent.com/AmrendraOG/gifs/refs/heads/main/3ab998f0-affc-49b5-be01-41cae6b055c4.gif">
+<img align="right" alt="Robot" width='400' src="https://iconscout.com/lottie-animation/machine-learning-4835198_4019933">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charvi-M&label=Profile%20views&color=blueviolet&style=flat" alt="Charvi Mishra" /> </p>
 
