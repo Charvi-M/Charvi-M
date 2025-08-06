@@ -33,4 +33,4 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charvi-M&layout=compact&theme=default)
+
