@@ -9,6 +9,8 @@
 
 - 🏆 Achievement **Grand finalist in Smart India Hackathon**
 
+- 💼 Experience **Worked as an AI/ML intern at HCLTech Noida**
+
 - 📫 How to reach me **09charvimishra@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
